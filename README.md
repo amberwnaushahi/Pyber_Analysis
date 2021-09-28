@@ -6,7 +6,7 @@ The purpose of this analysis is to identify total weekly fare metrics by type of
 
 As part of the exercise, a summary DataFrame of the ride-sharing data by city type was created along with a multiple-line graph that show the total weekly fares for each city type.
 
-Data Source: city_data.csv, PyBer_ride_data.csv, ride_data.csv *Software: Python 3.7.10 *Jupyter Notebook## * Matplotlib
+Challenge File: PyBer_Challenge.ipynb Data Source: city_data.csv, PyBer_ride_data.csv, ride_data.csv *Software: Python 3.7.10 *Jupyter Notebook## * Matplotlib
 
 ## Results
 
